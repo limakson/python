@@ -1,2 +1,7 @@
 # python
-python
+
+Kocham pyton
+
+dodaje opisy
+
+opis
