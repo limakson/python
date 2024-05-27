@@ -1,7 +1,3 @@
 # python
 
-Kocham pyton
-
-dodaje opisy
-
-opis
+nikt tu piwa nie kocha
