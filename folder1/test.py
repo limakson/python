@@ -6,4 +6,13 @@ with open("liczby.txt") as f:
 
 print(liczby)
 
-# limak debil
+# limak gigachad
+suma=0
+niepa=0
+for liczba in liczby:
+    if (liczba>100):
+        suma=suma+liczba
+    if (liczba%2==1):
+        niepa=niepa + 1
+print("suma =",suma)
+print("nieparzystych jest",niepa)
