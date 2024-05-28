@@ -1,3 +1,3 @@
 # python
 
-nikt tu piwa nie kocha
+a moze jednak
