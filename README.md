@@ -1,3 +1,6 @@
 # python 
 
-nikt tu piwa nie kocha (ja kocham)
+
+nikt tu piwa nie kocha (ja kocham) tak
+
+
