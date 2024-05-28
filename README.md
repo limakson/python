@@ -1,3 +1,3 @@
-# python
+# python 
 
-nikt tu piwa nie kocha
+nikt tu piwa nie kocha (ja kocham)
