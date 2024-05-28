@@ -1,3 +1,6 @@
-# python
+# python 
 
-alskflaskasfklfhklasfhkaasfhfkakakkfksk
+
+nikt tu piwa nie kocha (ja kocham) tak
+
+
