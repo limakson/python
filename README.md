@@ -1,3 +1,3 @@
 # python
 
-a moze jednak
+alskflaskasfklfhklasfhkaasfhfkakakkfksk
